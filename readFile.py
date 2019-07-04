@@ -21,3 +21,5 @@ def getFile(url):
         chrome.close()
         return
     #关闭浏览器
+
+getFile("http://book.zongheng.com/chapter/850594/56867918.html")
